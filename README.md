@@ -31,7 +31,7 @@ The project demonstrates the following design patterns:
    - Compile the code using your favorite IDE or command line.
 
    For command line:
-> javac src/*.java java src.Main
+   > javac src/*.java java src.Main
 
 ## Usage
 
