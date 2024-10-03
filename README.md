@@ -5,6 +5,17 @@
 
 This repository contains a project developed as part of a bachelor's degree exam in Computer Engineering. The main objective of the project was to apply various **design patterns** in software design and implementation.
 
+## In-Game Screenshot
+### Game Configuration Screen
+![Screenshot 2024-10-03 alle 10 00 07 AM](https://github.com/user-attachments/assets/3c9ec017-ad46-4e8c-ad4a-a070ac1e15e5)
+### Initial Game Screen
+![Screenshot 2024-10-03 alle 10 00 12 AM](https://github.com/user-attachments/assets/70ed34f5-58ae-4dc4-b7ea-b6cfc8b4f0ca)
+### Manual Mode with Legend
+![Screenshot 2024-10-03 alle 10 05 02 AM](https://github.com/user-attachments/assets/cd628d79-2879-4d38-80de-a55620fd32eb)
+### Game Progress Screen
+![Screenshot 2024-10-03 alle 10 00 43 AM](https://github.com/user-attachments/assets/ad8fb5d5-65f7-4d4e-b7d4-a1dc3486fded)
+
+
 ## Design Patterns Used
 
 The project demonstrates the following design patterns:
