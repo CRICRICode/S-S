@@ -24,7 +24,7 @@ The project demonstrates the following design patterns:
 ## Installation and Setup
 
 1. **Clone the Repository**:
-2. > git clone https://github.com/CRICRICode/S-S.git cd S-S
+   > git clone https://github.com/CRICRICode/S-S.git cd S-S
 
 2. **Compile and Run**:
    - Ensure you have Java (version 8 or higher) installed.
